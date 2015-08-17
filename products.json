@@ -1,0 +1,728 @@
+[{
+	"id_category" : 1,
+	"products" : [{
+			"id": 011,
+			"name": "Breaking Bad The Complete Serie",
+			"description": "The complete series of the blackly comic drama starring Bryan Cranston as a high school chemistry teacher who discovers that he is dying from inoperable lung cancer and decides to raise money for his family by embarking on a new career as a crystal meth dealer",
+			"photo": "http://tshop.r10s.com/0ec/ff8/0894/17e9/b0cf/3deb/b027/113be49d9a005056b75a2f.jpg?_ex=330x330",
+			"price": 39.90,
+			"created_at": "2015-08-05"
+			},
+                  
+           {
+			"id": 012,
+			"name": "Breaking Bad t-shirt",
+			"description": "The Original Breaking Bad t-shirt",
+			"photo": "http://www.geekalerts.com/u/Breaking-Bad-Heisenberg-Inside-T-Shirt.jpg",
+			"price": 13.99,
+			"created_at": "2015-08-05"
+			},
+                  
+         {
+			"id": 013,
+			"name": "Orange Is The New Black The Complete Serie",
+			"description": "The Original Breaking Bad t-shirt",
+			"photo": "http://www.geekalerts.com/u/Breaking-Bad-Heisenberg-Inside-T-Shirt.jpg",
+			"price": 13.99,
+			"created_at": "2015-08-05"
+			},
+ 
+            {
+			"id": 014,
+			"name": "Orange Is The New Black The Complete Serie",
+			"description": "The series revolves around Piper Chapman, a woman in her thirties living in New York City, who is sentenced to 15 months in an upstate New York women's federal prison called Litchfield Penitentiary. Piper has been convicted of transporting a suitcase full of drug money to her now former girlfriend Alex Vause, an international drug smuggler/mule.",
+			"photo": "http://i.ebayimg.com/00/s/ODUzWDEyMjY=/z/1UIAAOSwd0BVuqH4/$_57.JPG",
+			"price": 18.97,
+			"created_at": "2015-08-05"
+			},
+ {
+			"id": 015,
+			"name": "Orange Is The New Black Figures",
+			"description": "Funny Version of the characters",
+			"photo": "http://4.bp.blogspot.com/-v1DImvp_1T8/VVwmjh-tDKI/AAAAAAABZkk/3t4yD6SmY6U/s1600/ORANGE-IS-THE-NEW-LACK-FUNKO-POP.jpg",
+			"price": 25,
+			"created_at": "2015-08-05"
+			},
+ 
+ {
+			"id": 016,
+			"name": "Game of Thrones The Complete Serie",
+			"description": "Funny Version of the characters",
+			"photo": "http://i2.cdnds.net/15/04/235x340/screen-shot-2015-01-20-at-175508.jpg",
+			"price": 25,
+			"created_at": "2015-08-05"
+			},
+ 
+ 
+ 
+  {
+			"id": 017,
+			"name": "Game of Thrones Books",
+			"description": "Game of Thrones Books",
+			"photo": "http://i.ebayimg.com/00/s/NDgyWDUwMA==/z/37wAAOSweW5VGHSX/$_12.JPG",
+			"price": 50,
+			"created_at": "2015-08-05"
+			},
+ 
+ 
+ {
+			"id": 018,
+			"name": "Game of Thrones collectable stuffs",
+			"description": "Game of Thrones Collar ",
+			"photo": "http://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/EWcAAOSwl8NVaRw~/$_57.JPG",
+			"price": 5,
+			"created_at": "2015-08-05"
+			}],
+}
+ 
+  
+{
+ "id_category": 2,
+ "products" : [{
+ 			"id": 020,
+			"name": "The Cure - Boy Don't Cry",
+			"description": "Boys Don't Cry es un álbum recopilatorio de The Cure, lanzado el 5 de febrero de 1980.2 Básicamente se trata de la edición estadounidense del primer álbum de la banda en el Reino Unido Three Imaginary Boys pero con ligeros cambios en el orden de las canciones, algunas de las cuáles fueron eliminadas en esta edición como «Object», «Foxy Lady», «Meathook», «It's Not You» y otras fueron añadidas como la misma «Boys Don't Cry», «Plastic Passion», «Jumping Someone Else's Train», «World War» y «Killing an Arab»",
+			"photo": "http://assets.rollingstone.com/assets/images/list/2ee61387fb50efc38b003d13cae18374e4b0157b.jpg",
+			"price": 30,
+			"created_at": "2015-08-05"
+			},
+               {
+ 			"id": 021,
+			"name": " Sgt. Pepper’s Lonely Hearts Club Band - The Beatles",
+			"description": "es el octavo álbum de estudio de la banda británica The Beatles. Grabado en un periodo de 129 días y publicado el 1 junio de 1967 en el Reino Unido y el 2 de junio del mismo año en Estados Unidos, es a menudo citado por la crítica como una de sus mejores obras y uno de los discos más influyentes de todos los tiempos.Continuando con la maduración artística de la banda vista en Revolver (1966), se alejó bastante del pop rock convencional de la época e incorporó elementos poco comunes y muy divergentes entre sí a su música, como baladas, música psicodélica, music hall, e influencias sinfónicas.",
+			"photo": "http://www.imer.mx/rock/wp-content/uploads/sites/40/sgt.jpg",
+			"price": 30,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 022,
+			"name": "Are You Experienced? -The Jimi Hendrix Experience",
+			"description": " álbum debut de The Jimi Hendrix Experience, lanzado en 1967 por Track Records. Este álbum estableció a Jimi Hendrix como uno de los artistas de rock más importantes de su época, gracias a su innovadora técnica y uso de feedback. Es frecuentemente considerado uno de los mejores y más importantes álbumes en la historia del rock. En el año 2003, la revista Rolling Stone situó este álbum en el número quince de su lista Los 500 mejores álbumes de todos los tiempos.",
+			"photo": "http://ecx.images-amazon.com/images/I/51XopVPfDOL.jpg",
+			"price": 100,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 023,
+			"name": "Rumours - Fleetwood Mac",
+			"description": "es el disco más popular de la banda británico-estadounidense de rock Fleetwood Mac, ganador de un premio Grammy, y del que se han vendido más de cuarenta millones de copias en todo el mundo. Fue el undécimo álbum de estudio del grupo, grabado en 1976 y producido por la misma banda junto a Ken Caillat y Richard Dashut. Se publicó en febrero de 1977 a través de Warner Bros. Records. Figuró como el disco más vendido según la publicación estadounidense Billboard 200 durante 31 semanas distintas, y de la lista de álbumes del Reino Unido en enero de 1978. De él se extrajeron los sencillos «Go Your Own Way», «Don't Stop», «Dreams» y «You Make Loving Fun».",
+			"photo": "http://ecx.images-amazon.com/images/I/51h3Lf%2BcaiL.jpg",
+			"price": 60,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 024,
+			"name": "The Dark Side of The Moon - Punk Floyd",
+			"description": "es un álbum conceptual y el octavo de estudio de la banda británica de rock progresivo Pink Floyd. Fue lanzado el 1 de marzo de 1973 en Estados Unidos y el 24 de marzo del mismo año en el Reino Unido. El álbum está construido a partir de las ideas que Pink Floyd había explorado en sus conciertos y anteriores grabaciones, pero carece de las largas piezas instrumentales que caracterizaban a los trabajos posteriores a la marcha en 1968 de su miembro fundador, principal compositor y letrista, Syd Barrett.2 La temática del álbum incluye el conflicto, la avaricia, el envejecimiento y la enfermedad mental, tema este último inspirado en parte por el deterioro mental de Barrett.2",
+			"photo": "http://www.futuro.cl/wp-content/blogs.dir/122/files/2013/03/Pink-Floyd-Dark-Side-Of-The-Moon.jpg",
+			"price": 100,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 025,
+			"name": "True Blue - Madonna",
+			"description": "Tercer álbum de estudio de Madonna, publicado el 30 de junio de 1986 por la compañía discográfica Sire Records. Para su grabación la cantante trabajó en conjunto con Stephen Bray y Patrick Leonard, además de participar en la composición y producción de todas las pistas. Referido como el álbum más femenino de Madonna, True Blue muestra sus conceptos de amor, trabajo, sueños, así como decepciones, y fue inspirado por su entonces esposo Sean Penn, a quien Madonna dedicó el álbum. Las canciones tomaron una dirección diferente a la de sus trabajos previos, ya que incorporó elementos de música clásica con el fin de abordar a un público más maduro que se mantenía escéptico ante su obra",
+			"photo": "https://richgirlsandrollerskates.files.wordpress.com/2010/05/trueblue.jpg",
+			"price": 60,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 026,
+			"name": "Pearl - Janis Joplin",
+			"description": "Pearl es el cuarto álbum de Janis Joplin, lanzado de forma póstuma por Columbia en enero 1971 seis semanas después del fallecimiento, recopilando así las últimas grabaciones de la cantante. Fue el único álbum grabado junto con la Full Tilt Boogie Band. Fue un éxito y se mantuvo en el número uno de ventas durante catorce semanas. Alcanzó el puesto Nº1 en la Billboard 200, manteniendo ese lugar por nueve semanas. En 2003 fue catalogado en el lugar 122 de los 500 mejores álbumes de todos los tiempos",
+			"photo": "http://i1309.photobucket.com/albums/s632/Comunidad_Sabalera/janis_joplin_-_pearl_zps108f2802.jpg",
+			"price": 95,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 027,
+			"name": "The Joshua Tree - U2",
+			"description": " Es el quinto álbum de estudio de la banda rock irlandesa U2. Fue lanzado por Island Records el 9 de marzo de 1987. La ingeniería y la producción fueron nuevamente de Brian Eno y Daniel Lanois. Es uno de los mejores y más exitosos discos de la banda, e incluye temas tan famosos como With Or Without You o Where The Streets Have No Name. En 2003 fue colocado en el número 26 en la Lista de Rolling Stone de los 500 mejores álbumes de todos los tiempos. Se convirtió rápidamente en un éxito de ventas mundial, alcanzando actualmente las 28 millones de copias, y proseguido de una igualmente exitosa gira por todo el mundo. El lugar donde sacaron el nombre y se tomaron parte de las fotos del álbum es el Parque Nacional de Árboles de Josué. La foto del que acabaría siendo icónico árbol de Josué de la contraportada y otras fueron tomadas en los alrededores del Parque nacional del Valle de la Muerte",
+			"photo": "http://i38.servimg.com/u/f38/14/97/08/67/songs-10.jpg",
+			"price": 85,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 028,
+			"name": "Metallica - Metallica",
+			"description": "Metallica (también conocido como The Black Album por su portada), es el quinto álbum de estudio de la banda de Thrash Metal Metallica. Fue el primer álbum de Metallica producido por Bob Rock. Recibió elogios de la crítica y se convirtió en el álbum más vendido de la banda. El disco tiene éxitos como Enter Sandman, Sad But True, The Unforgiven, Wherever I May Roam y Nothing Else Matters. Vendió más de 500.000 copias en su primera semana en EE. UU., siendo por tanto uno de los más vendidos de todo el metal en general.",
+			"photo": "http://2.bp.blogspot.com/-j-oqEoG1W_g/UdoGFP21GjI/AAAAAAAACmo/UQBvAIJxFT8/s1600/Metallica+(Black+Album).jpg",
+			"price": 40,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 029,
+			"name": "Abbey Road - The Beatles",
+			"description": "Duodecimo album de estudio, se caracterizó por la presencia de un medley en el lado B, una larga pieza de 16 minutos, que constaba de ocho canciones enlazadas una tras otra sucesivamente. El álbum destacó también por contener dos de las canciones más conocidas del guitarrista George Harrison, Something y Here Comes the Sun, popularizando ésta última el uso del sintetizador (Moog) en el rock.[cita requerida] La portada del álbum se convirtió en una de las más famosas de la historia de la música, en la cual se representaba a The Beatles cruzando un paso peatonal en el cruce de Grove End Road con la calle Abbey Road, frente a los estudios donde se grabaron casi todas sus canciones desde 1962.",
+			"photo": "http://all-funny.info/wp-content/uploads/2015/02/The-Beatles-Abbey-Road.jpg",
+			"price": 80,
+			"created_at": "2015-08-05"
+               }],
+    
+}
+ {
+ 
+ "id_category": 3,
+ "products" : [{
+ 			"id": 030,
+			"name": "Saturday Night Fever",
+			"description": "es una película estadounidense de 1977, dirigida por John Badham. Protagonizada por John Travolta y Karen Lynn Gorney, en los papeles principales. El guion está basado en un artículo publicado el año anterior en la revista New Work Magazine titulado Ritos tribales del nuevo sábado en la noche",
+			"photo": "http://cdn8.openculture.com/wp-content/uploads/2011/06/saturdaynightfever.jpg",
+			"price": 30,
+			"created_at": "2015-08-05"
+			},
+               {
+ 			"id": 031,
+			"name": "Grease",
+			"description": "El musical cuenta la historia de amor del rebelde Danny Zuko y la inocente Sandy Olsson. Ambos se conocen durante el verano y al despedirse ninguno de los dos piensa en que se vayan a ver de nuevo. Pero se equivocaban: cuando ella decide matricularse en el mismo instituto que su amiga Frenchy lo último que esperaba era convertirse en compañera de Danny, el co-líder rebelde de los T-Birds.",
+			"photo": "http://static.rogerebert.com/uploads/movie/movie_poster/grease-1998/large_xPVFjzll8bthznjO2HrlWwE7HjV.jpg",
+			"price": 30,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 032,
+			"name": "A Clockwork Orange",
+			"description": "película británica de ciencia ficción satírica de 1971, producida, escrita y dirigida por Stanley Kubrick. Es una adaptación fílmica de la novela homónima de 1962, escrita por Anthony Burgess",
+			"photo": "https://farmacon.files.wordpress.com/2008/11/naranja.jpg",
+			"price": 100,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 033,
+			"name": "Top Gun",
+			"description": "Top Gun es una película estadounidense, del año 1986, protagonizada por Tom Cruise y Kelly McGillis. Gran parte del éxito de la película se debe a las espectaculares escenas en el aire combinadas con una banda sonora emocionante, destacando el tema «Danger Zone», de Kenny Loggins",
+			"photo": "http://pics.filmaffinity.com/Top_Gun_dolos_del_aire-784306900-large.jpg",
+			"price": 60,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 034,
+			"name": "Footlose",
+            "description": "Footloose es una película estadounidense estrenada en 1984 y ligeramente inspirada en hechos reales ocurridos en la pequeña comunidad rural religiosa de Elmore City, Oklahoma.",
+ 
+			"photo": "http://ia.media-imdb.com/images/M/MV5BMTYwMzgzNDAzM15BMl5BanBnXkFtZTYwODY0NjU5._V1_SX640_SY720_.jpg",
+			"price": 100,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 035,
+			"name": "The BodyGuard",
+			"description": "El guardaespaldas es una película romántica estadounidense de 1992 dirigida por Mick Jackson.",
+			"photo": "http://pics.filmaffinity.com/El_guardaespaldas-601884855-large.jpg",
+			"price": 60,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 036,
+			"name": "Coco avant Chanel",
+			"description": "película francesa del año 2009, dirigida por Anne Fontaine, que narra el origen de la célebre diseñadora de modas francesa Coco Chanel.",
+			"photo": "https://caracas1067.files.wordpress.com/2009/06/chanel1.jpg",
+			"price": 95,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 037,
+			"name": "Le Roi Danse",
+			"description": "Le Roi Danse Es una película Biografica sobre la relacion entre el compositor Jean-Baptiste Lully y el Rey Luis XIV, tambien se muestra la relacion de Lully con Molière. Basada en el libro de Beaussant, Philippe (1992). Lully ou le musicien du soleil (en frances). y dirigida por Gérard Corbiau. Estrenada en el año 2000 fue nominada a tres «Premios Cesar»",
+			"photo": "http://podcast.uaem.mx:16080/groups/recomendaciones/weblog/1d57c/images/6c929.jpg",
+			"price": 85,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 038,
+			"name": "El Perfume",
+			"description": "El perfume: Historia de un asesino es una película de thriller del año 2006 basada en una novela de Patrick Süskind, fue dirigida por Tom Tykwer y protagonizada por Dustin Hoffman y Alan Rickman.",
+			"photo": "http://pics.filmaffinity.com/El_Perfume_Historia_de_un_asesino-610048327-large.jpg",
+			"price": 40,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 039,
+			"name": "El exorcista",
+			"description": "Adaptación de la novela de William Peter Blatty. Inspirada en un exorcismo real ocurrido en Washington en 1949. Regan, una niña de doce años, es víctima de fenómenos paranormales como la levitación o la manifestación de una fuerza sobrehumana",
+			"photo": "http://st-listas.20minutos.es/images/2012-10/345858/3753899_249px.jpg?1401298149",
+			"price": 80,
+			"created_at": "2015-08-05"
+               }],
+			
+ }
+ {
+ 
+ "id_category": 4,
+ "products" : [{
+ 			"id": 040,
+			"name": "View Master",
+			"description": "Because only 90s kids would appreciate",
+			"photo": "https://s-media-cache-ak0.pinimg.com/236x/63/f9/78/63f978f4001f6f5f842276699345a7d1.jpg",
+			"price": 30,
+			"created_at": "2015-08-05"
+			},
+               {
+ 			"id": 041,
+			"name": "Barbie Teen Skipper Doll. All Grown Up!",
+			"description": "Teen Skipper Doll, Sister of Barbie Doll is a 1996 Mattel production Skipper Doll approx. 11.5 tall w/blond hair w/blond & pink braid on side, & blue eyes. Skipper Doll wears a pair of blue denim like Baggy Jeans w/white belt at waist, a pink & blue Crop Top (matches Swim Suit Bottoms), Swim Suit Bottoms, a pair of pink w/white sole Hi Top Sneakers She comes with a clear pink vinyl School Bag, Sunglasses, Sticker Tattoos for Doll, Tattoos for YOU, & a pink Hair Brush. For Ages 3+ Years.",
+			"photo": "http://ecx.images-amazon.com/images/I/51ov%2Bl4e5mL._SY450_.jpg",
+			"price": 30,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 042,
+			"name": "Sony Sport Walkman",
+			"description": "Sony Sport Walkman wm-fs495 FM / AM Radio Digital Cassette Mega Bass Digital ",
+			"photo": "http://i.ebayimg.com/00/s/MTYwMFgxNDA2/z/CkUAAOxygj5Sh5V7/$_35.JPG",
+			"price": 100,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 043,
+			"name": "Lego Legoland clásica",
+			"description": "ciudad 6376 breezeway Cafe -163 Piezas 5 Minifiguras 1990 Sellado",
+			"photo": "http://cloud1.todocoleccion.net/juegos-construccion-lego/tc/2014/02/10/14/41503339.jpg",
+			"price": 60,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 044,
+			"name": "Micro Hornito",
+            "description": "Micro Hornito",
+			"photo": "http://www.recreoviral.com/wp-content/uploads/2015/02/juguetes-que-podr%C3%ADan-hacerte-millonario-10.jpg",
+			"price": 100,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 045,
+			"name": "Game Boy original",
+			"description": "Game Boy",
+			"photo": "http://www.recreoviral.com/wp-content/uploads/2015/02/juguetes-que-podr%C3%ADan-hacerte-millonario-3.jpg",
+			"price": 60,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 046,
+			"name": "Patineta Tech Deck",
+			"description": "Patineta Tech Deck",
+			"photo": "http://www.recreoviral.com/wp-content/uploads/2015/02/juguetes-que-podr%C3%ADan-hacerte-millonario-29.jpg",
+			"price": 95,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 047,
+			"name": "Caballeros del Zodiaco",
+			"description": "Caballeros del Zodiaco",
+			"photo": "http://k33.kn3.net/taringa/4/0/0/3/E/1/Beriku/967.jpg",
+			"price": 85,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 048,
+			"name": "Super Nintendo ",
+			"description": "Super Nintendo ",
+			"photo": "http://k33.kn3.net/taringa/A/4/4/D/3/4/Beriku/860.jpg",
+			"price": 40,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 049,
+			"name": "Tamagotchi",
+			"description": "Tamagotchi",
+			"photo": "http://www.recreoviral.com/wp-content/uploads/2015/02/juguetes-que-podr%C3%ADan-hacerte-millonario-1-666x750.jpg",
+			"price": 80,
+			"created_at": "2015-08-05"
+               }],
+			
+ }
+ {
+ 
+ "id_category": 5,
+ "products" : [{
+ 			"id": 050,
+			"name": "Cien años de soledad, de Gabriel García Márquez",
+			"description": "",
+			"photo": "http://2.bp.blogspot.com/-BbVKIZIg2pA/UO5o9vqB7TI/AAAAAAAAACE/OPrwTtiHfAs/s1600/cienanos.gif",
+			"price": 30,
+			"created_at": "2015-08-05"
+			},
+               {
+ 			"id": 051,
+			"name": "Orgullo y prejuicio, de Jane Austen ",
+			"description": "",
+			"photo": "http://image.casadellibro.com/a/l/t0/88/9788484284888.jpg",
+			"price": 30,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 052,
+			"name": "El Principito, de Antoine de Saint-Exupéry",
+			"description": " ",
+			"photo": "http://salamandra.info/sites/default/files/books/images/hires/cubierta_principito_salamandra-300dpi-imprimir.jpg",
+			"price": 100,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 053,
+			"name": "Drácula, de Bram Stoker",
+			"description": "",
+			"photo": "http://image.casadellibro.com/a/l/t0/81/9788420665481.jpg",
+			"price": 60,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 054,
+			"name": "Harry Potter y las reliquias de la muerte",
+			"photo": "http://www.jkrowling.com/uploads/images/large/es_ES-timeline-image-harry-potter-y-las-reliquias-de-la-muerte-1333557663.jpg",
+			"price": 100,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 055,
+			"name": "La casa de los espíritus, de Isabel Allende",
+			"description": "",
+			"photo": "http://image.casadellibro.com/a/l/t0/98/9788401352898.jpg",
+			"price": 60,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 056,
+			"name": "El perfume",
+			"description": "El perfume: historia de un asesino es la primera novela del escritor alemán Patrick Süskind,",
+			"photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/El-perfume.jpg/250px-El-perfume.jpg",
+			"price": 95,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 057,
+			"name": "La Metamorfosis",
+			"description": "Franz Kafka",
+			"photo": "http://covers.feedbooks.net/book/3221.jpg?size=large&t=1439145763",
+			"price": 85,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 058,
+			"name": "Frankenstein",
+			"description": "obra literaria de la escritora inglesa Mary Shelley",
+			"photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Frankenstein_cover_by_mscorley.jpg/220px-Frankenstein_cover_by_mscorley.jpg",
+			"price": 40,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 059,
+			"name": "Dime quién soy",
+			"description": "novela histórica de Julia Navarro",
+			"photo": "http://www.quelibroleo.com/images/libros/libro_1354461569.jpg",
+			"price": 80,
+			"created_at": "2015-08-05"
+               }],
+			
+ }
+ {
+ 
+ "id_category": 6,
+ "products" : [{
+ 			"id": 060,
+			"name": "Darth Vader toaster",
+			"description": "",
+			"photo": "http://www.soyacincau.com/wp-content/uploads/2010/07/100722DarthVaderToaster.jpg",
+			"price": 30,
+			"created_at": "2015-08-05"
+			},
+               {
+ 			"id": 061,
+			"name": "Baby Bib",
+			"description": "",
+			"photo": "https://storiesinsepia.files.wordpress.com/2013/08/babybibs.jpg",
+			"price": 30,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 062,
+			"name": "Mario Bross Lamp",
+			"description": " ",
+			"photo": "https://s-media-cache-ak0.pinimg.com/236x/70/8e/b4/708eb477d99645b04db3a3ff095850bb.jpg",
+			"price": 100,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 063,
+			"name": "Star Wars Charger",
+			"description": "",
+			"photo": "https://s-media-cache-ak0.pinimg.com/736x/64/c1/8d/64c18d62deac79a00608703804e9fc9d.jpg",
+			"price": 60,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 064,
+			"name": "Laboratory Beaker Mug",
+			"photo": "http://a.tgcdn.net/images/products/frontsquare/96c6_beaker_mug.jpg",
+			"price": 100,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 065,
+			"name": "Nerdtendo Gamebooze 8oz Flask",
+			"description": "",
+			"photo": "http://a.tgcdn.net/images/products/frontsquare/1762_nerdtendo_gamebooze_8oz_flask.jpg",
+			"price": 60,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 066,
+			"name": "Infectious Disease Balls",
+			"description": "",
+			"photo": "https://www.thinkgeek.com/images/products/frontsquare/e8f1_disease_stress_balls.gif",
+			"price": 95,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 067,
+			"name": "Space Capsule Tea Infuser",
+			"description": "",
+			"photo": "https://www.thinkgeek.com/images/products/frontsquare/hugl_space_capsule_tea_infuser.jpg",
+			"price": 85,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 068,
+			"name": "Darth Vader Helmet USB Car Charger",
+			"description": "",
+			"photo": "https://www.thinkgeek.com/images/products/frontsquare/iisv_vader_helmet_car_charger.jpg",
+			"price": 40,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 069,
+			"name": "Dragon Cake Pan",
+			"description": "",
+			"photo": "https://www.thinkgeek.com/images/products/frontsquare/152e_dragon_cake_pan.jpg",
+			"price": 80,
+			"created_at": "2015-08-05"
+               }],
+			
+ }
+ {
+ 
+ "id_category": 7,
+ "products" : [{
+ 			"id": 070,
+			"name": "Dragon Ball",
+			"description": "The Complete Serie",
+			"photo": "http://ecx.images-amazon.com/images/I/615xtj62XvL._SY344_BO1,204,203,200_.jpg",
+			"price": 30,
+			"created_at": "2015-08-05"
+			},
+               {
+ 			"id": 071,
+			"name": "Super Campeones",
+			"description": "The Complete Serie",
+			"photo": "http://i.ebayimg.com/00/s/MTA4MlgxMDAw/z/qUIAAOxyBvZTTIhh/$_35.JPG",
+			"price": 30,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 072,
+			"name": "Tom and Jerry",
+			"description": "The Ultimate Collection ",
+			"photo": "http://img6a.flixcart.com/image/av-media/movies/z/n/h/the-ultimate-tom-and-jerry-treasure-chest-45-dvd-set-400x400-imads6thhcwadatn.jpeg",
+			"price": 100,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 073,
+			"name": "Heidi",
+			"description": "Complete Serie",
+			"photo": "http://thumbs2.ebaystatic.com/d/l225/m/m-NZjkId6NLJXoGzddn_lnA.jpg",
+			"price": 60,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 074,
+			"name": "Caballeros del Zodiaco",
+              "description": "Complete Serie",     
+			"photo": "http://thumbs3.ebaystatic.com/d/l225/m/mLeV9GmUpQgu7xEcfCaCLfw.jpg",
+			"price": 100,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 075,
+			"name": "Inspector Gadget",
+			"description": "Mega Set",
+			"photo": "http://thumbs3.ebaystatic.com/d/l225/m/m6I95ydymInJpc3AXlOcEIg.jpg",
+			"price": 60,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 076,
+			"name": "El oso Yogui",
+			"description": "The Complete Serie",
+			"photo": "http://i.ebayimg.com/00/s/NjAwWDU4Ng==/z/AZQAAMXQt~hSJXJ7/$(KGrHqR,!ooFIMmPSCLzBSJ(J7EVvg~~60_35.JPG",
+			"price": 95,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 077,
+			"name": "Candy Candy",
+			"description": "The Complete Serie",
+			"photo": "http://thumbs2.ebaystatic.com/d/l225/m/mfirMMTr9Zi_Ew8X692YF4w.jpg",
+			"price": 85,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 078,
+			"name": "Los trotamúsicos",
+			"description": "Complete Serie",
+			"photo": "http://thumbs1.ebaystatic.com/d/l225/m/mwk7enqv9zh8dx0SY7YOp6w.jpg",
+			"price": 40,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 079,
+			"name": "Carmen SanDiego",
+			"description": "Complete Serie",
+			"photo": "http://ecx.images-amazon.com/images/I/91a9lm0xRpL._SY445_.jpg",
+			"price": 80,
+			"created_at": "2015-08-05"
+               }],
+			
+ }
+ {
+ 
+ "id_category": 8,
+ "products" : [{
+ 			"id": 080,
+			"name": "THE LEGEND OF ZELDA: OCARINA OF TIME",
+			"description": "AVENTURA 199 NINTENDO N64",
+			"photo": "http://st-listas.20minutos.es/images/2013-10/370369/4200460_249px.jpg?1413531747",
+			"price": 30,
+			"created_at": "2015-08-05"
+			},
+               {
+ 			"id": 081,
+			"name": "GRAND THEFT AUTO: SAN ANDREAS",
+			"description": "ACCION 2004 ROCKSTAR GAMES PS2",
+			"photo": "http://st-listas.20minutos.es/images/2013-10/370369/4200256_249px.jpg?1413531747",
+			"price": 30,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 082,
+			"name": "SUPER MARIO BROS",
+			"description": "AVENTURA 1985 NINTENDO NES ",
+			"photo": "http://st-listas.20minutos.es/images/2013-10/370369/4200338_249px.jpg?1413531747",
+			"price": 100,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 083,
+			"name": "CRASH BANDICOOT: WARPED",
+			"description": "AVENTURA 1998 SONY COMPUTER ENTERTAINMENT PS1",
+			"photo": "http://st-listas.20minutos.es/images/2013-10/370369/4200194_249px.jpg?1413531747",
+			"price": 60,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 084,
+			"name": "RESIDENT EVIL 4",
+			"description": "TERROR 2005 CAPCOM PS2",
+            "photo": "http://st-listas.20minutos.es/images/2013-10/370369/4200416_249px.jpg?1413531747",
+			"price": 100,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 085,
+			"name": "SUPER MARIO 64",
+			"description": "AVENTURA 1996 NINTENDO N64",
+			"photo": "http://st-listas.20minutos.es/images/2013-10/370369/4200453_249px.jpg?1413531747",
+			"price": 60,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 086,
+			"name": " DONKEY KONG COUNTRY",
+			"description": "AVENTURA 1994 NINTENDO SNES",
+			"photo": "http://st-listas.20minutos.es/images/2013-10/370369/4200196_249px.jpg?1413531747",
+			"price": 95,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 087,
+			"name": "MORTAL KOMBAT",
+			"description": "LUCHAS 1992 MIDWAY ARCADE",
+			"photo": "http://st-listas.20minutos.es/images/2013-10/370369/4200393_249px.jpg?1413531747",
+			"price": 85,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 088,
+			"name": "CALL OF DUTY: MODERN WARFARE",
+			"description": "ACCION 2007 ACTIVISION PC",
+			"photo": "http://st-listas.20minutos.es/images/2013-10/370369/4199444_249px.jpg?1413531747",
+			"price": 40,
+			"created_at": "2015-08-05"
+			},
+			
+               {
+ 			"id": 089,
+			"name": "AGE OF EMPIRES 2",
+			"description": "LOGICA Y ESTRATEGIA 2005 MICROSOFT STUDIOS PC",
+			"photo": "http://st-listas.20minutos.es/images/2013-10/370369/4199438_249px.jpg?1413531747",
+			"price": 80,
+			"created_at": "2015-08-05"
+               }],
+			
+ }
+]

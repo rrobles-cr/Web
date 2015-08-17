@@ -1,0 +1,51 @@
+[{
+	"id": 1,
+	"name": "TV Shows",
+	"description": "Articulos Unicos de Tus TV Shows Favoritos",
+	"created_at": "2015-08-05"
+},
+{
+	"id": 2,
+	"name": "Music",
+	"description": "Las Mejores Bandas en un solo lugar",
+	"created_at": "2015-08-05"
+},
+{
+	"id": 3,
+	"name": "Movies",
+	"description": "Only Movies",
+	"created_at": "2015-08-05"
+},
+ 
+ {
+	"id": 4,
+	"name": "Back to Basics",
+	"description": "Viaja por el tiempo con articulos unicos",
+	"created_at": "2015-08-05"
+},
+ 
+  {
+	"id": 5,
+	"name": "Books",
+	"description": "Libros Unicos en un Solo Lugar",
+	"created_at": "2015-08-05"
+},
+ {
+	"id": 6,
+	"name": "Geek Stuffs",
+	"description": "Warning Only Geeks",
+	"created_at": "2015-08-05"
+},
+ {
+	"id": 7,
+	"name": "Cartoons",
+	"description": "Recordando La Infancia",
+	"created_at": "2015-08-05"
+},
+ {
+	"id": 8,
+	"name": "The Best Video Games",
+	"description": "Los Mejores Juegos en un Solo Lugar",
+	"created_at": "2015-08-05"
+},
+]
